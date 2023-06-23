@@ -1,6 +1,6 @@
 [submodule "NotificationService"]
 	path = NotificationService
-	url = ./NotificationService
+	url = https://github.com/medegor44/NotificationService
 [submodule "SocialNetwork"]
 	path = SocialNetwork
-	url = ./SocialNetwork
+	url = https://github.com/medegor44/SocialNetwork
