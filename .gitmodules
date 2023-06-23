@@ -1,0 +1,6 @@
+[submodule "NotificationService"]
+	path = NotificationService
+	url = ./NotificationService
+[submodule "SocialNetwork"]
+	path = SocialNetwork
+	url = ./SocialNetwork
